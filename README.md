@@ -24,7 +24,9 @@ Onde X(1,1), Y(1,1), Z(1,1) e C(1,1) são o conjunto de dados que formam um pont
 
 function reflexaoX(X, Y, Z, C):
 Imprime a reflexão em relação ao eixo coordenado x, de um dado modelo fornecido através dos parâmetros X, Y, Z, e C.
+
 function reflexaoY(X, Y, Z, C):
 Imprime a reflexão em relação ao eixo coordenado y, de um dado modelo fornecido através dos parâmetros X, Y, Z, e C.
+
 function reflexaoZ(X, Y, Z, C):
 Imprime a reflexão em relação ao eixo coordenado z, de um dado modelo fornecido através dos parâmetros X, Y, Z, e C.
