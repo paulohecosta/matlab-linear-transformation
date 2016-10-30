@@ -10,10 +10,15 @@ Y: matriz de coordenadas dos y dos pontos dos polígonos do modelo 3D.
 Z: matriz de coordenadas dos z dos pontos dos polígonos do modelo 3D.
 C: matriz de cores dos pontos dos polígonos do modelo 3D.
 Exemplo: Duas faces poligonais de 4 arestas:
+
 X = [ 0 , 0 ; 2 , 2 ; 2 , 2 ; 0 , 0 ]
+
 Y = [ 0 , 1 ; 0 , 1 ; 0 , 1 ; 0 , 1 ]
+
 Z = [ 0 , 0 ; 0 , 0 ; 1 , 1 ; 1 , 1 ]
+
 C = [ 1 , 1 ; 1 , 1 ; 1 , 1 ; 1 , 1 ]
+
 Onde X(1,1), Y(1,1), Z(1,1) e C(1,1) são o conjunto de dados que formam um ponto no espaço.
 "," separa os pontos indicando que saõ de polígonos diferentes e ";" separa indicando que peretencem ao mesmo polígono de mesmo índice.
 
