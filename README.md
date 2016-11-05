@@ -1,9 +1,9 @@
 # matlab-linear-transformation
-EN - Matlab functions of linear transformation for 3D models.
+[EN] - Matlab functions of linear transformation for 3D models.
 
-PT - Funções para tranformações lineares de modelos 3D feitos no Matlab
+[PT-BR] - Funções para tranformações lineares de modelos 3D feitos no Matlab
 
-PT - Functions doc:
+[PT-BR] - Functions doc:
 
 parameters:
 X: matriz de coordenadas dos x dos pontos dos polígonos do modelo 3D.
