@@ -44,7 +44,9 @@ Imprime a reflexão em relação ao plano yOz de um dado modelo fornecido atrav�
 function reflexaoO(X, Y, Z, C):
 Imprime a reflexão em relação á origem(0,0,0) de um dado modelo fornecido através dos parâmetros X, Y, Z, e C.
 
-function rotacaoX(X, Y, Z, C):
-Imprime a rotação em relação ao eixo X de um dado modelo fornecido através dos parâmetros X, Y, Z, e C.
+function rotacaoX(X, Y, Z, C, ang):
+Imprime a rotação em relação ao eixo X de um dado modelo fornecido através dos parâmetros X, Y, Z, C e ang, sendo ang o angulo de rotação em torno do eixo.
 
+function calculaAlfaX(X, Y, Z, ang):
+Apenas para um vetor, imprime o vetor rotacionado, dado um vetor fornecido através dos parâmetros X, Y, Z, com o angulo de rotação ang. Ao mesmo tempo, imprime o valor do angulo entre os dois vetores, o antigo e o novo gerado.
 
